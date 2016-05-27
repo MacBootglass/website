@@ -1,0 +1,6 @@
+[submodule "presentationsRevealJS"]
+	path = presentationsRevealJS
+	url = https://github.com/Dutiens/presentationsRevealJS.git
+[submodule "tirageAuSortNoel"]
+	path = tirageAuSortNoel
+	url = https://github.com/MacBootglass/tirageAuSortNoel.git
