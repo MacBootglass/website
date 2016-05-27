@@ -4,6 +4,3 @@
 [submodule "tirageAuSortNoel"]
 	path = tirageAuSortNoel
 	url = https://github.com/MacBootglass/tirageAuSortNoel.git
-[submodule "bootstrap"]
-	path = bootstrap
-	url = https://github.com/twbs/bootstrap.git
