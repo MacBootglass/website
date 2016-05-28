@@ -4,3 +4,6 @@
 [submodule "projets/presentationsRevealJS"]
 	path = projets/presentationsRevealJS
 	url = https://github.com/Dutiens/presentationsRevealJS.git
+[submodule "ressources/bootstrap"]
+ 	path = ressources/bootstrap
+ 	url = https://github.com/twbs/bootstrap.git
