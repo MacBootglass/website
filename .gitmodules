@@ -7,3 +7,6 @@
 [submodule "ressources/bootstrap"]
  	path = ressources/bootstrap
  	url = https://github.com/twbs/bootstrap.git
+[submodule "ressources/progressbar.js"]
+	path = ressources/progressbar.js
+	url = https://github.com/kimmobrunfeldt/progressbar.js.git
