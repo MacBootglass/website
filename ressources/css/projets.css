@@ -1,0 +1,53 @@
+html body {
+  height: 100%;
+  width: 100%;
+  padding: 0px;
+  margin: 0px;
+  background: #202020; }
+
+#sectionProjet {
+  margin-top: 40px;
+  margin-right: 20px;
+  margin-left: 20px; }
+
+.play {
+  float: right;
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+  font-size: 30px;
+  border-style: solid;
+  border-color: #FFFFFF;
+  padding-top: 5px;
+  padding-left: 5px;
+  padding-bottom: 0px;
+  padding-right: 0px; }
+
+.play:hover {
+  color: white; }
+
+.panel-primary {
+  border-color: #4e4e4e !important; }
+  .panel-primary .panel-heading {
+    background: #4e4e4e !important;
+    border-color: #4e4e4e !important;
+    color: white !important; }
+
+.panel-info {
+  border-color: #b6b6b6 !important; }
+  .panel-info .panel-heading {
+    background: #b6b6b6 !important;
+    border-color: #b6b6b6 !important;
+    color: white !important; }
+
+.navbar-fixed-bottom .container {
+  padding-top: 5px;
+  float: right; }
+  .navbar-fixed-bottom .container .list-inline {
+    margin: 0px !important;
+    padding: 0px !important;
+    float: right; }
+  .navbar-fixed-bottom .container .logo {
+    height: 40px; }
+
+/*# sourceMappingURL=projets.css.map */
