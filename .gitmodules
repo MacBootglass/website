@@ -5,8 +5,8 @@
 	path = projets/presentationsRevealJS
 	url = https://github.com/Dutiens/presentationsRevealJS.git
 [submodule "ressources/librairies/bootstrap"]
- 	path = ressources/librairies/bootstrap
- 	url = https://github.com/twbs/bootstrap.git
+	path = ressources/librairies/bootstrap
+	url = https://github.com/twbs/bootstrap.git
 [submodule "ressources/librairies/progressbar.js"]
 	path = ressources/librairies/progressbar.js
 	url = https://github.com/kimmobrunfeldt/progressbar.js.git
