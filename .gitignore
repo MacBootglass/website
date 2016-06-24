@@ -1,8 +1,7 @@
 *.png
 *.jpg
-*.map
-*.css
 *.html
-ressources/js/*
-ressources/.sass-cache
 .sass-cache
+ressources/ts/tsconfig.json
+ressources/css/*
+ressources/js/*
